@@ -26,3 +26,24 @@
   background-size: cover;
   background-position: center;
 }
+.grey{
+  color: gray;
+ font-family: 'Courier New', Courier, monospace;
+  font-weight: 550;
+}
+
+.wraper{
+  display: flex;
+  gap: 100px;
+  
+  padding-left: 50px;
+}
+.output{
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  justify-content: center;
+}
+.country-name{
+margin-left: 100px;
+}
